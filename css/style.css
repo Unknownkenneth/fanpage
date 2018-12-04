@@ -3,11 +3,8 @@ html {
 }
 
 #background{
-    height: 100%;
-    background-image: ;
-}
-a {
-    text-decoration: none;
+  
+    background-color: black  ;
 }
 
 .main {
@@ -67,7 +64,18 @@ a {
     
     background-color: black;
 }
-#about{
+.gallery{
+     display: flex; 
+    justify-content: flex-start;
+     
+}
+
+.thumbnail-image{
+             width: 125%;
+     height: 100%;
+    }
+
+#bodyg{
     
-    
+    background-color: black;
 }
